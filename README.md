@@ -2,76 +2,66 @@
 
 ### Desenvolvedor Back-end Java/Spring | Dados com Python
 
-Estou em transição de carreira para desenvolvimento de software, com foco em **back-end com Java e Spring Boot** e **Python aplicado a dados e machine learning**. Tenho construído projetos reais — de APIs REST a pipelines de ETL e sistemas full stack entregues para clientes — e complemento o perfil com UX/UI centrado no usuário.
+Desenvolvedor back-end em início de carreira, com foco em **Java e Spring Boot** para APIs REST e
+regras de negócio, e **Python aplicado a dados**: extração de documentos, ETL, análise e machine
+learning. Já entreguei sistemas completos para clientes reais, do banco de dados à interface.
 
-🔗 **[portfolio-pedrocanuto-desenvolvedor.vercel.app](https://portfolio-pedrocanuto-desenvolvedor.vercel.app)**
+Venho de uma trajetória na música e na educação. Desde 2020 tenho um negócio próprio em
+educação musical e eventos, e trago dessa experiência o hábito de partir de um problema real
+para chegar à solução, não só ao código.
 
----
+🔗 **Portfólio:** [portfolio-pedrocanuto-desenvolvedor.vercel.app](https://portfolio-pedrocanuto-desenvolvedor.vercel.app)
 
-## 🚀 Sobre Mim
-
-- 🎓 Técnico em Desenvolvimento de Sistemas — SENAI CIMATEC
-- ☕ Back-end com **Java, Spring Boot, Spring AI e Spring Security**
-- 🐍 Python para **dados, ETL, OCR e machine learning**
-- ⚛️ Frontend com **React + Vite**
-- 🗄️ Bancos de dados: **PostgreSQL, MySQL** (SQLAlchemy, JPA/Hibernate, Alembic)
-- 📊 Dashboards: **Pandas, Matplotlib, Seaborn, Power BI**
-- 🤖 Explorando **IA generativa e agentes com LLMs**
-- 🐳 Containerização com **Docker**
-- 🔍 Sempre construindo e entregando projetos reais
+<sub>🇬🇧 Back-end developer (Java/Spring Boot) with a second focus on data with Python. Open to entry-level opportunities.</sub>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 📌 Projetos em destaque
 
-### Back-end
+| Projeto | O que resolve | Stack | Status |
+|---|---|---|---|
+| [**Gestão de Clientes e Documentos**](https://github.com/DataCanuto/gestao-de-clientes) | Para um cliente: lê lotes de PDFs com OCR, junta os documentos de cada cliente e mostra o que falta. Evoluiu de um notebook para uma aplicação full stack. | Python · FastAPI · PostgreSQL · SQLAlchemy · React · Tesseract | ✅ Concluído |
+| [**Pedro Canuto Música**](https://github.com/DataCanuto/pedrocanutomusico) | Cadastro de alunos e agenda de aulas do meu próprio serviço como educador musical. | Java · Spring Boot · PostgreSQL · React | ✅ No ar: [pedrocanutomusico.vercel.app](https://pedrocanutomusico.vercel.app) |
+| [**Flora Hub**](https://github.com/DataCanuto/FloraHub) | Identifica plantas por foto com GPT-4o e cruza os cuidados da espécie com o clima local em um motor de regras. | Java 21 · Spring Boot · Spring AI · OpenWeather | 🔄 Em andamento |
+| [**Spring Boot AI Budgeting**](https://github.com/DataCanuto/bootcamps/tree/main/DIO/SpringBootAI-Budgetting-ProjectCertification) | Orçamento pessoal por comando de voz: transcrição, tool calling e casos de uso em arquitetura em camadas. | Java · Spring AI · MySQL · Docker | ✅ Concluído |
+| [**IA Industrial 4.0**](https://github.com/DataCanuto/Inteligencia-Artificial-4.0) | Notebooks do fluxo de ciência de dados: limpeza, EDA, feature engineering, ML e visão computacional. | Python · Pandas · scikit-learn · XGBoost · OpenCV | ✅ Concluído |
+| [**Google Data Analytics**](https://github.com/DataCanuto/GoogleDataAnalytics) | Análise de dados de atividade física (Fitbit) com recomendações de engajamento. | Python · Pandas · EDA | ✅ Concluído |
+
+---
+
+## 🛠️ Tecnologias
+
+**Uso em projetos**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Front-end
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Banco de Dados & Infra
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Dados & IA
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Ferramentas
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+- **Back-end:** Spring Boot, Spring Data JPA, Spring AI, APIs REST, arquitetura em camadas; FastAPI, SQLAlchemy, Alembic
+- **Dados:** ETL, OCR (Tesseract, PyMuPDF), EDA, machine learning (scikit-learn, XGBoost), visão computacional (OpenCV)
+- **Testes:** JUnit 5 e pytest
+- **Front-end e UX:** React, Vite, Next.js; pesquisa, wireframes e protótipos no Figma
 
 ---
 
-## 📌 Projetos em Destaque
+## 🎓 Formação
 
-| Projeto | Stack | Status |
-|---|---|---|
-| [Sistema de Gestão de Clientes e Documentos](https://github.com/DataCanuto/gestao-de-clientes) | Python · FastAPI · PostgreSQL · React · OCR | ✅ Concluído |
-| [Flora Hub](https://github.com/DataCanuto/FloraHub) | Java 21 · Spring Boot · Spring AI · GPT-4o · Preact | 🔄 Em andamento |
-| [Pedro Canuto Música](https://github.com/DataCanuto/pedrocanutomusico) | Plataforma de agendamentos · Google Calendar | ✅ No ar em [pedrocanutomusico.app](https://pedrocanutomusico.app/) |
-| [IA Industrial 4.0](https://github.com/DataCanuto/Inteligencia-Artificial-4.0) | Python · Jupyter · ML · Deep Learning · Visão Computacional | ✅ Concluído |
-| [Google Data Analytics](https://github.com/DataCanuto/GoogleDataAnalytics) | Python · Pandas · EDA | ✅ Concluído |
+- **Técnico em Desenvolvimento de Sistemas**, SENAI CIMATEC (2025 – 2027, cursando): [atividades e projetos por módulo](https://github.com/DataCanuto/Desenvolvimento-de-Sistemas)
+- **Engenharia de Software**, Estácio (2026 – 2030, cursando)
 
-## 📚 Estudos
+**Certificações:** Google Data Analytics · Google UX Design · Google AI Essentials · Java Spring Boot AI (Globant/DIO) · AI Java Back-End (Santander) · Ciência de Dados com Python (Santander/DIO) · Inteligência Artificial Industrial 4.0 (SENAI)
 
-- [Desenvolvimento de Sistemas (SENAI CIMATEC)](https://github.com/DataCanuto/Desenvolvimento-de-Sistemas): atividades e projetos do curso técnico, organizados por módulo
-- [Bootcamps](https://github.com/DataCanuto/bootcamps): projetos de certificação, como o Spring Boot AI Budgeting (DIO)
+Projetos de bootcamps e certificações: [bootcamps](https://github.com/DataCanuto/bootcamps)
 
 ---
 
@@ -80,3 +70,5 @@ Estou em transição de carreira para desenvolvimento de software, com foco em *
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-canuto-408867331)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:data.canuto@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pedrocanuto-desenvolvedor.vercel.app)
+
+Aberto a oportunidades de nível inicial em desenvolvimento back-end e dados, e a projetos freelance.
