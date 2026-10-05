@@ -38,12 +38,11 @@ Estou em transição de carreira para desenvolvimento de software, com foco em *
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Cloud & Banco de Dados
+### Banco de Dados & Infra
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Dados & IA
 
@@ -63,7 +62,21 @@ Estou em transição de carreira para desenvolvimento de software, com foco em *
 
 | Projeto | Stack | Status |
 |---|---|---|
-| [Sistema de Gestão de Clientes e Documentos](https://github.com/DataCanuto/gestao-de-clientes) | FastAPI · PostgreSQL · React · OCR | ✅ Concluído |
-| [Flora Hub Backend](https://github.com/DataCanuto/Desenvolvimento-de-Sistemas) | Java · Spring Boot · Spring AI · GPT-4o | 🔄 Em andamento |
-| [Pedro Canuto Música](https://github.com/DataCanuto) | Java · Spring Boot · Spring Security · React | ✅ Concluído |
-| [IA Industrial 4.0](https://github.com/DataCanuto/Inteligencia-Artificial-4.0) | Python · Jupyter · ML · Deep Learning · CV | ✅ Concluído |
+| [Sistema de Gestão de Clientes e Documentos](https://github.com/DataCanuto/gestao-de-clientes) | Python · FastAPI · PostgreSQL · React · OCR | ✅ Concluído |
+| [Flora Hub](https://github.com/DataCanuto/FloraHub) | Java 21 · Spring Boot · Spring AI · GPT-4o · Preact | 🔄 Em andamento |
+| [Pedro Canuto Música](https://github.com/DataCanuto/pedrocanutomusico) | Plataforma de agendamentos · Google Calendar | ✅ No ar em [pedrocanutomusico.app](https://pedrocanutomusico.app/) |
+| [IA Industrial 4.0](https://github.com/DataCanuto/Inteligencia-Artificial-4.0) | Python · Jupyter · ML · Deep Learning · Visão Computacional | ✅ Concluído |
+| [Google Data Analytics](https://github.com/DataCanuto/GoogleDataAnalytics) | Python · Pandas · EDA | ✅ Concluído |
+
+## 📚 Estudos
+
+- [Desenvolvimento de Sistemas (SENAI CIMATEC)](https://github.com/DataCanuto/Desenvolvimento-de-Sistemas): atividades e projetos do curso técnico, organizados por módulo
+- [Bootcamps](https://github.com/DataCanuto/bootcamps): projetos de certificação, como o Spring Boot AI Budgeting (DIO)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-canuto-408867331)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:data.canuto@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pedrocanuto-desenvolvedor.vercel.app)
